@@ -1,0 +1,3 @@
+# Do not allow changes to GH actions or other project setup files
+invalid:
+- .github/**/*
