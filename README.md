@@ -1,2 +1,3 @@
-# hacktoberfest-pr-sink
-Automatically accepts all PRs
+# Hacktoberfest PR sink
+
+Feel free to submit PRs, they will be merged automatically!
