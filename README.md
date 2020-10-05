@@ -1,4 +1,4 @@
-# Hacktoberfest PR sink
+# Hacktoberfest PR sink - an amazing project
 
 Feel free to submit PRs, they will be merged automatically!
 
